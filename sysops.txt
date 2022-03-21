@@ -74,3 +74,12 @@ Log Deliveryグループ
 ・スタックセット
 スタックセットは、1つのCloud Formationテンプレートを使用して、複数のAWSアカウントにスタックを作成できる
 
+・AWS Systems Manager
+パッチ適用のプロセスを自動化する
+
+・cfn-signal
+cfn-signalヘルパースクリプトは。Amazon EC2インすん箪笥が正常に作成さいまたは更新されたかどうかを示すシグナルAWS CloudFormationに送信する。
+
+・CloudFormationのリソースをスタック削除後も保持する
+リソースのDeletationPolicyにRetainを指定する
+
