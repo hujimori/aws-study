@@ -83,3 +83,18 @@ cfn-signalヘルパースクリプトは。Amazon EC2インすん箪笥が正常
 ・CloudFormationのリソースをスタック削除後も保持する
 リソースのDeletationPolicyにRetainを指定する
 
+・リージョン間でのAMIのコピー
+AMIはリージョンに依存しているため、別リージョンで使用する場合はコピーが必要
+
+・CloudFormationで必須なセクション
+Resources
+
+・AWS Config
+リソース設定の変更を追跡することができる
+
+・CreateStack
+スタックの作成に失敗した場合にスタックのロールバックを無効にするには、DisableRollbackをtrueに設定する。
+
+・AWS Shieldアドバンスド
+DDos保護を提供
+
