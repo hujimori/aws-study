@@ -98,3 +98,19 @@ Resources
 ・AWS Shieldアドバンスド
 DDos保護を提供
 
+やること
+・CloudFront + S3 + OAI→完了
+・署名付きURL→完了
+
+・VPCフローログ設定
+・ELB、AutoScalingのヘルスチェック
+・AWS アカウントの認証情報レポートの取得
+・Cloud Formation
+・S3エンドポイントとEC2接続
+・OpsWorks
+・クロスアカウントリージョンダッシュボード
+・ElastiCache
+・VPC接続
+・VPCピアリング
+・Amazon EC2 Auto Scaling のスケジュールされたスケーリング
+
