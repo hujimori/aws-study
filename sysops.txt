@@ -107,6 +107,9 @@ DDos保護を提供
 ・署名付きURL→完了
 ・Cloud Formation→テンプレートの作成、パラメータの設定完了
 ・AMIのコピー→完了
+・Cloud Watch + CPUUtilization→完了
+・S3バケット削除→完了
+
 
 ・VPCフローログ設定
 ・ELB、AutoScalingのヘルスチェック
@@ -120,11 +123,9 @@ DDos保護を提供
 ・Amazon EC2 Auto Scaling のスケジュールされたスケーリング
 ・カスタムピングパス
 ・SAML
-・S3バケット削除
 ・Athena + S3
 ・Route53 + S3
 ・Blue-Green Deployment
-・Cloud Watch + CPUUtilization
 ・エクスポネーシャルバックオフ
 ・バケットポリシー
 ・Egress-Only インターネットゲートウェイ
