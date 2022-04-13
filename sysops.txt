@@ -110,8 +110,23 @@ DDos保護を提供
 ・Cloud Watch + CPUUtilization→完了
 ・S3バケット削除→完了
 
+・CloudFormationのテンプレート更新→完了
 
-・VPCフローログ設定
+・CloudFormationのDeletation policy設定→完了
+・VPCフローログ設定→完了
+・S3バージョニンググレイシア以降
+・Lambdaログ+CloudWwatch+SNS
+・CloudFormationスタック更新→完了
+・CLoudFormationデザイナー
+・ELB＋EC2+Autoscaling
+・VPCリソース作成→完了
+・VPC+S3エンドポイント→完了
+・Lambda+EC2+IAMロール
+
+・別リージョンのS3に権限を付与して削除
+・CloudWatch+SNS+Lambda
+・
+
 ・ELB、AutoScalingのヘルスチェック
 ・AWS アカウントの認証情報レポートの取得
 ・S3エンドポイントとEC2接続
